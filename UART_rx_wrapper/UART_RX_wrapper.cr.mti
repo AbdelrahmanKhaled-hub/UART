@@ -1,0 +1,22 @@
+D:/Final_project/UART/UART_rx_wrapper/UART_RX.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_rx_wrapper/UART_RX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_rx
+
+Top level modules:
+	UART_rx
+
+} {} {}} D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_rx_wrapper
+
+Top level modules:
+	UART_rx_wrapper
+
+} {} {}} D:/Final_project/UART/UART_rx_wrapper/FIFO_RX.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_rx_wrapper/FIFO_RX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Sync_FIFO_rx
+
+Top level modules:
+	Sync_FIFO_rx
+
+} {} {}}

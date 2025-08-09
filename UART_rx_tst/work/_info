@@ -1,0 +1,73 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1751561742
+V=2g75BMP]Zk0@383aWdES3
+04 10 4 work UART_RX_tb fast 0
+=1-902e1627e8bc-6866b60d-178-31b0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vUART_RX
+!s110 1751561735
+!i10b 1
+!s100 KEZaUDN9SkHmaz?Tg9?EG1
+IJ79Xgia4XW?NG6DAGzTdg0
+Z2 dD:/Final_project/UART/UART_rx_tst
+w1751121337
+8D:/Final_project/UART/UART_rx_tst/UART_rx.v
+FD:/Final_project/UART/UART_rx_tst/UART_rx.v
+!i122 9
+L0 1 112
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z5 !s108 1751561735.000000
+!s107 D:/Final_project/UART/UART_rx_tst/UART_rx.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Final_project/UART/UART_rx_tst/UART_rx.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@u@a@r@t_@r@x
+vUART_RX_tb
+!s110 1751561736
+!i10b 1
+!s100 Zd`fCNNkMhcK;4N3k]kNS1
+Id6Rh1c@^CW=<aj=3KMPFC3
+R2
+w1751507269
+8D:/Final_project/UART/UART_rx_tst/UART_rx_tb.v
+FD:/Final_project/UART/UART_rx_tst/UART_rx_tb.v
+!i122 10
+L0 1 128
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Final_project/UART/UART_rx_tst/UART_rx_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Final_project/UART/UART_rx_tst/UART_rx_tb.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@r@x_tb

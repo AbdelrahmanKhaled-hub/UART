@@ -1,0 +1,29 @@
+D:/Final_project/UART/UART_tx_wrapper/UART_TX_wrapper.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_tx_wrapper/UART_TX_wrapper.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_tx_wrapper
+
+Top level modules:
+	UART_tx_wrapper
+
+} {} {}} D:/Final_project/UART/UART_tx_wrapper/UART_TX.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_tx_wrapper/UART_TX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_tx
+
+Top level modules:
+	UART_tx
+
+} {} {}} D:/Final_project/UART/UART_tx_wrapper/FIFO_TX.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_tx_wrapper/FIFO_TX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Sync_FIFO_tx
+
+Top level modules:
+	Sync_FIFO_tx
+
+} {} {}} D:/Final_project/UART/UART_tx_wrapper/UART_TX_wrapper_tb.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_tx_wrapper/UART_TX_wrapper_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_tx_wrapper_tb
+
+Top level modules:
+	UART_tx_wrapper_tb
+
+} {} {}}

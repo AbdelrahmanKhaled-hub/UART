@@ -1,0 +1,140 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1751565924
+VFOlU00`NAXSk^_K_7I:CY2
+04 18 4 work UART_rx_wrapper_tb fast 0
+=1-902e1627e8bc-6866c664-111-ab8
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vSync_FIFO_rx
+Z2 !s110 1751564058
+!i10b 1
+!s100 ]V`0k6JWRh@]_XE031NXE0
+I9X3kTIFCfUUc3lZl;94Ao2
+Z3 dD:/Final_project/UART/UART_rx_wrapper
+w1751376390
+8D:/Final_project/UART/UART_rx_wrapper/FIFO_RX.v
+FD:/Final_project/UART/UART_rx_wrapper/FIFO_RX.v
+!i122 39
+L0 2 91
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1751564058.000000
+!s107 D:/Final_project/UART/UART_rx_wrapper/FIFO_RX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Final_project/UART/UART_rx_wrapper/FIFO_RX.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@sync_@f@i@f@o_rx
+vUART_rx
+R2
+!i10b 1
+!s100 RTAFf]6Yijl1zk?H1TojU2
+I_fz[?MNdBa^`MOW8XkS[>1
+R3
+w1751375553
+8D:/Final_project/UART/UART_rx_wrapper/UART_RX.v
+FD:/Final_project/UART/UART_rx_wrapper/UART_RX.v
+!i122 40
+L0 1 112
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Final_project/UART/UART_rx_wrapper/UART_RX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Final_project/UART/UART_rx_wrapper/UART_RX.v|
+!i113 0
+R7
+R1
+n@u@a@r@t_rx
+vUART_rx_wrapper
+R2
+!i10b 1
+!s100 3hH<kBkZgM6ij]Iol=R9?0
+I7hDMEMBI;?@5c>NaHZHX60
+R3
+w1751375947
+8D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper.v
+FD:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper.v
+!i122 41
+L0 1 56
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper.v|
+!i113 0
+R7
+R1
+n@u@a@r@t_rx_wrapper
+vUART_rx_wrapper_tb
+!s110 1751565916
+!i10b 1
+!s100 d1T2T@U^>z7NaEib7UF=F2
+IHD9kh_iF=Z9PEzo0kK]Xd2
+R3
+w1751565909
+8D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper_tb.v
+FD:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper_tb.v
+!i122 47
+L0 1 139
+R4
+R5
+r1
+!s85 0
+31
+!s108 1751565916.000000
+!s107 D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Final_project/UART/UART_rx_wrapper/UART_RX_wrapper_tb.v|
+!i113 0
+R7
+R1
+n@u@a@r@t_rx_wrapper_tb

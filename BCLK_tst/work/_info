@@ -1,0 +1,69 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1741823242
+VH7HP=a`BWGBKhKH6kmHAB1
+04 17 4 work Baud_generator_tb fast 0
+=1-902e1627e8bc-67d21d09-2f9-67f0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vBaud_generator
+Z2 !s110 1741823236
+!i10b 1
+!s100 C4X[XXV<]gYCXCfUejH=E2
+IEhe@ijf3en;B2VXQEPM`a0
+Z3 dD:/Final_project/UART/BCLK_tst
+w1741822786
+8Baud_generator.v
+FBaud_generator.v
+!i122 18
+L0 1 23
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1741823236.000000
+Z7 !s107 Baud_generator_tb.v|Baud_generator.v|
+Z8 !s90 -reportprogress|300|Baud_generator.v|Baud_generator_tb.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@baud_generator
+vBaud_generator_tb
+R2
+!i10b 1
+!s100 B4^lV?C1nZz91Hg0kz;e<2
+I@`bWI^i]9E_>ED8AE?HcL1
+R3
+w1741822787
+8Baud_generator_tb.v
+FBaud_generator_tb.v
+!i122 18
+L0 3 32
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@baud_generator_tb

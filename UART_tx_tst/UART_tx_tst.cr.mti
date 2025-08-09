@@ -1,0 +1,15 @@
+D:/Final_project/UART/UART_tx_tst/UART_tx.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_tx_tst/UART_tx.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_tx
+
+Top level modules:
+	UART_tx
+
+} {} {}} D:/Final_project/UART/UART_tx_tst/UART_tx_tb.v {1 {vlog -work work -vopt -stats=none D:/Final_project/UART/UART_tx_tst/UART_tx_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_tx_tb
+
+Top level modules:
+	UART_tx_tb
+
+} {} {}}
