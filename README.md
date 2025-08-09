@@ -26,6 +26,8 @@ Framing Error (FE) – Missing or invalid stop bit.
 
 Overrun Error (OE) – FIFO overflow.
 
+Bit error (BE) - detection if the received data bits are corrupted due to excessive line noise or invalid
+
 Baud Rate Generator:
 
 Generates the sampling clock based on the desired baud rate.
